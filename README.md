@@ -17,6 +17,6 @@ The code can be eaily run on python by typing the command:
 
 ## Authors
 
-# In case of any further information on the code or the use of it, please contact us at
+### In case of any further information on the code or the use of it, please contact us at
 - Swarit Dwivedi (dwivediswarit@gmail.com)
 - Akshat Tanksale (Akshat.Tanksale@monash.edu)
